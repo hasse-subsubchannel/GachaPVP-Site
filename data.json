@@ -1,0 +1,305 @@
+{
+ "site": {
+  "name": "ガチャPVP Fight",
+  "tag": "引け、戦え、頂点へ。",
+  "pw": "340b4d77b255b78cd45bb9caa40357a5badc6b92936a890e2365cb2d7b603c05"
+ },
+ "seasons": [
+  {
+   "id": "s1",
+   "name": "開幕シーズン",
+   "start": "2026-11-06",
+   "end": "2026-12-01",
+   "initGold": 100,
+   "desc": "第1シーズン",
+   "status": "進行中",
+   "granted": true
+  }
+ ],
+ "players": [
+  {
+   "id": "mw4hmdm9l02",
+   "name": "hasse_1108",
+   "uuid": "",
+   "icon": "",
+   "joined": "2026-11-06",
+   "gold": 120,
+   "w": 0,
+   "l": 0,
+   "m": 0
+  },
+  {
+   "id": "mw4hmo418gf",
+   "name": "koten_bread",
+   "uuid": "",
+   "icon": "",
+   "joined": "2026-11-06",
+   "gold": 120,
+   "w": 0,
+   "l": 0,
+   "m": 0
+  },
+  {
+   "id": "mw4jl0jvxtn",
+   "name": "YB0513",
+   "uuid": "",
+   "icon": "",
+   "joined": "2026-11-06",
+   "gold": 120,
+   "w": 0,
+   "l": 0,
+   "m": 0
+  },
+  {
+   "id": "mw4jwkl4k7p",
+   "name": "armoon541",
+   "uuid": "",
+   "icon": "",
+   "joined": "2026-11-06",
+   "gold": 120,
+   "w": 0,
+   "l": 0,
+   "m": 0
+  }
+ ],
+ "matches": [
+  {
+   "id": "mw4i6uql34b",
+   "name": "開幕戦 A",
+   "fmt": "個人戦",
+   "date": "2026-11-07T14:00",
+   "open": "",
+   "close": "",
+   "venue": "虹コロシアム",
+   "vdesc": "",
+   "vimg": "",
+   "fee": 10,
+   "prize": 30,
+   "reward": "",
+   "limit": "",
+   "cap": 3,
+   "teamSize": 0,
+   "players": "YB0513\nkoten_bread\nhasse_1108\narmoon541",
+   "bracket": "",
+   "rules": "",
+   "desc": "",
+   "status": "受付前",
+   "winners": "",
+   "losers": "",
+   "champ": "",
+   "gold": "",
+   "result": ""
+  },
+  {
+   "id": "mw4k1m7z92s",
+   "name": "レギュラー戦 S",
+   "fmt": "個人戦",
+   "date": "2026-11-08T14:48",
+   "open": "2026-11-08T14:00",
+   "close": "2026-11-08T14:15",
+   "venue": "",
+   "vdesc": "",
+   "vimg": "",
+   "fee": 10,
+   "prize": 40,
+   "reward": "",
+   "limit": "",
+   "cap": 2,
+   "teamSize": 2,
+   "players": "hasse_1108\nYB0513\nkoten_bread\narmoon541",
+   "bracket": "",
+   "rules": "",
+   "desc": "",
+   "status": "受付前",
+   "winners": "",
+   "losers": "",
+   "champ": "",
+   "gold": "",
+   "result": ""
+  }
+ ],
+ "events": [
+  {
+   "id": "mw4i81frugg",
+   "title": "レギュラーシーズン11 開始",
+   "type": "シーズン",
+   "date": "2026-12-02",
+   "start": "",
+   "end": "",
+   "desc": ""
+  }
+ ],
+ "gachas": [
+  {
+   "id": "g0",
+   "name": "完全ランダムガチャ",
+   "price": "2",
+   "desc": "全レアリティ・全アイテムからランダム",
+   "img": "",
+   "items": "ノーマルアイテム,Common,70\nレアアイテム,Rare,25\nレジェンドアイテム,Legend,5",
+   "note": "排出確率の合計は100%です。",
+   "order": 1,
+   "pub": "公開"
+  },
+  {
+   "id": "g1",
+   "name": "レア以上確定ガチャ",
+   "price": "5",
+   "desc": "Rare・Legend確定",
+   "img": "",
+   "items": "レアアイテム,Rare,75\nレジェンドアイテム,Legend,25",
+   "note": "排出確率の合計は100%です。",
+   "order": 2,
+   "pub": "公開"
+  },
+  {
+   "id": "g2",
+   "name": "防具ガチャ",
+   "price": 4,
+   "desc": "ヘルメット・胴・脚・ブーツ",
+   "img": "",
+   "items": "ノーマルアイテム,Common,70\nレアアイテム,Rare,25\nレジェンドアイテム,Legend,5",
+   "note": "排出確率の合計は100%です。",
+   "order": 3,
+   "pub": "公開"
+  },
+  {
+   "id": "g3",
+   "name": "武器ガチャ",
+   "price": 4,
+   "desc": "剣・斧・槍など",
+   "img": "",
+   "items": "ノーマルアイテム,Common,70\nレアアイテム,Rare,25\nレジェンドアイテム,Legend,5",
+   "note": "排出確率の合計は100%です。",
+   "order": 4,
+   "pub": "公開"
+  },
+  {
+   "id": "g4",
+   "name": "弓ガチャ",
+   "price": 5,
+   "desc": "レアリティ別の矢",
+   "img": "",
+   "items": "ノーマルアイテム,Common,70\nレアアイテム,Rare,25\nレジェンドアイテム,Legend,5",
+   "note": "排出確率の合計は100%です。",
+   "order": 5,
+   "pub": "公開"
+  },
+  {
+   "id": "g5",
+   "name": "食料ガチャ",
+   "price": 2,
+   "desc": "レアリティ別の食料",
+   "img": "",
+   "items": "ノーマルアイテム,Common,70\nレアアイテム,Rare,25\nレジェンドアイテム,Legend,5",
+   "note": "排出確率の合計は100%です。",
+   "order": 6,
+   "pub": "公開"
+  },
+  {
+   "id": "g6",
+   "name": "サブアイテムガチャ",
+   "price": 3,
+   "desc": "補助アイテム",
+   "img": "",
+   "items": "ノーマルアイテム,Common,70\nレアアイテム,Rare,25\nレジェンドアイテム,Legend,5",
+   "note": "排出確率の合計は100%です。",
+   "order": 7,
+   "pub": "公開"
+  },
+  {
+   "id": "mw4lcrspjc5",
+   "name": "運試しガチャ",
+   "price": "1",
+   "desc": "コモンもしくはスーパーレジェンドのみ。\nスーパーレジェンドは1%。",
+   "img": "",
+   "items": "コモン,Common,99\nスーパーレジェンド,Legend,1",
+   "note": "",
+   "order": 8,
+   "pub": "公開"
+  }
+ ],
+ "rules": [
+  {
+   "id": "r1",
+   "order": 1,
+   "h": "基本ルール",
+   "body": "- リアルタイム戦闘\n- 装備は毎試合ガチャで獲得\n- 試合ごとにルールが変わる場合は個別試合ルールを優先\n- 勝利数を増やして1位を目指せ"
+  },
+  {
+   "id": "r2",
+   "order": 2,
+   "h": "報酬",
+   "body": "- 試合参加費は1人10G\n- 1位の勝利報酬は20G\n- 敗北時の追加報酬は0G"
+  },
+  {
+   "id": "r3",
+   "order": 3,
+   "h": "シーズンとゴールド",
+   "body": "- シーズン中のゴールドは持ち越し\n- シーズン終了時にゴールドをリセット\n- シーズンが始まるとゴールド追加\n- PVPが終わった時間で、カジノをすることができる。\n- シーズン終了時のランキングで次シーズンのゴールド配布が違います。1位→+20G 2位+10G"
+  }
+ ],
+ "news": [
+  {
+   "id": "n1",
+   "title": "公式サイトOPEN",
+   "cat": "重要",
+   "imp": "通常",
+   "date": "2026-11-06T12:00",
+   "pub": "公開",
+   "body": "ガチャPVP Fight 公式サイトを公開しました。"
+  },
+  {
+   "id": "mw4iwwuodfv",
+   "title": "シーズン開幕",
+   "cat": "シーズン情報",
+   "imp": "重要",
+   "date": "2026-11-06T05:16",
+   "pub": "公開",
+   "body": ""
+  },
+  {
+   "id": "mw4lf0gjryv",
+   "title": "レア度スーパーレジェンド追加",
+   "cat": "その他",
+   "imp": "通常",
+   "date": "2026-11-06T15:27",
+   "pub": "公開",
+   "body": "内容\n・高速装填Vのクロスボウ+光の矢\n・エンチャントダイヤフル装備\n・不死のトーテム2つ\n・盾 耐久力3\n・弓射撃ダメージ増加IV\n・弓フレイムつき+パンチII"
+  }
+ ],
+ "logs": [
+  {
+   "t": "2026-11-06 05:54",
+   "type": "gold",
+   "player": "armoon541",
+   "d": 20,
+   "note": "ウェルカムゴールド",
+   "bal": 120
+  },
+  {
+   "t": "2026-11-06 05:54",
+   "type": "gold",
+   "player": "YB0513",
+   "d": 20,
+   "note": "ウェルカムゴールド",
+   "bal": 120
+  },
+  {
+   "t": "2026-11-06 05:53",
+   "type": "gold",
+   "player": "koten_bread",
+   "d": 20,
+   "note": "ウェルカムゴールド",
+   "bal": 120
+  },
+  {
+   "t": "2026-11-06 05:53",
+   "type": "gold",
+   "player": "hasse_1108",
+   "d": 20,
+   "note": "ウェルカムゴールド",
+   "bal": 120
+  }
+ ]
+}
