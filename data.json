@@ -24,9 +24,9 @@
    "icon": "",
    "joined": "2026-11-06",
    "gold": 40,
-   "w": 0,
-   "l": 0,
-   "m": 0,
+   "w": 2,
+   "l": 1,
+   "m": 3,
    "prev": 1
   },
   {
@@ -37,8 +37,8 @@
    "joined": "2026-11-06",
    "gold": 15,
    "w": 0,
-   "l": 0,
-   "m": 0,
+   "l": 3,
+   "m": 3,
    "prev": 2
   },
   {
@@ -48,9 +48,9 @@
    "icon": "",
    "joined": "2026-11-06",
    "gold": 30,
-   "w": 0,
-   "l": 0,
-   "m": 0,
+   "w": 1,
+   "l": 2,
+   "m": 3,
    "prev": 3
   },
   {
@@ -87,12 +87,14 @@
    "bracket": "",
    "rules": "",
    "desc": "",
-   "status": "受付前",
+   "status": "終了",
    "winners": "hasse_1108,hasse_1108,YB0513",
    "losers": "koten_bread,koten_bread,koten_bread,YB0513,YB0513,hasse_1108",
    "champ": "",
    "gold": "",
-   "result": ""
+   "result": "",
+   "applied": 1,
+   "rdate": "2026-11-07T14:00"
   },
   {
    "id": "mw4k1m7z92s",
